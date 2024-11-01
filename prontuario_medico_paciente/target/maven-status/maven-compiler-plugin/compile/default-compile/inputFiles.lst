@@ -1,0 +1,7 @@
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/infraestrutura/config/DatabaseConfig.java
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/interface_adaptador/PacienteController.java
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/dominio/modelo/Paciente.java
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/aplicacao/PacienteService.java
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/infraestrutura/repositorio/PacienteRepositoryImpl.java
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/ProntuarioMedicoApplication.java
+/home/bruno/dev/prontuario-medico/prontuario-medico/src/main/java/com/bnds/prontuario/dominio/repositorio/PacienteRepository.java

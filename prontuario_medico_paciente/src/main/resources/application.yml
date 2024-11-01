@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/prontuario_db
+    username: prontuario_user
+    password: secure_password
+  jpa:
+    hibernate:
+      ddl-auto: update  # Use 'create' for the first run, then switch to 'update'
+    show-sql: true  # Optional: show SQL statements in the console
